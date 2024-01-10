@@ -10,7 +10,7 @@ Welcome to the Quiz Game Web App! Test your knowledge with a variety of quizzes 
 
 ## Demo
 
-[Live Demo](insert your live demo link here)
+[Live Demo](https://wassimoubaziz.github.io/quiz-app/)
 
 ## Technologies Used
 
